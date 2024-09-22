@@ -18,7 +18,7 @@ int main()
  } 
  else if (D==0) // Case if D=0
  {
-   float x = (-b)/2*a; // Calculation of Case of One Real Roots
+   float x = (-b)/(2*a); // Calculation of Case of One Real Roots
    cout<<"x : "<<x<<endl;
  
  } else // Case If D>0
@@ -26,9 +26,8 @@ int main()
    float x1= ((b*-1)+ sqrt(D))/(2*a); // Calculation of Case of Two Real Roots
    float x2= ((b*-1)- sqrt(D))/(2*a);
    
-   cout<<"x1 ="<<x1<<endl;
-   cout<<"x2 ="<<x2<<endl;
-   
-   return 0; // End Program
+   cout<<"x1 = "<<x1<<endl;
+   cout<<"x2 = "<<x2<<endl;
  }
+ return 0; // End Program
 }
