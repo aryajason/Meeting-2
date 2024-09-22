@@ -1,1 +1,23 @@
+ Enter Your Name: Sadewa
+ The GrossSalary: 5000000
+ The Installment: 20000
+ The Insurance: 10000
+Payslip for Employee
+--------------------
+Name: Sadewa
+Tax (20%): 1000000
+Instalment: 20000
+Insurance: 10000
+Net Salary: 3970000
 
+Enter Your Name: Arjun
+ The GrossSalary: 5000
+ The Installment: 20000
+ The Insurance: 10000
+Payslip for Employee
+--------------------
+Name: Arjun
+Tax (20%): 1000
+Instalment: 20000
+Insurance: 10000
+Net Salary: -26000
